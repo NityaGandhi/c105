@@ -1,0 +1,15 @@
+.heading{
+width: 100%;
+
+}
+body{
+background-color: aqua;
+
+}
+#camera, #result{
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    width: 300px;
+    height: 300px;
+}
